@@ -18,3 +18,10 @@ _site/
 .shelf
 *.swp
 *.swo
+.mvn
+.github
+.circleci
+.editorconfig
+.settings.xml
+mvnw
+mvnw.cmd
